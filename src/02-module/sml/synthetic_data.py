@@ -57,7 +57,7 @@ CATEGORY_PERC_PRICE = {
                        "Jewelery":             (0.001, 10, 100.01)
                        }
 
-FRAUD_RATIO = 0.0025 # percentage of transactions that are fraudulent
+FRAUD_RATIO = 0.005 # percentage of transactions that are fraudulent
 NUMBER_OF_FRAUDULENT_TRANSACTIONS = int(FRAUD_RATIO * TOTAL_UNIQUE_TRANSACTIONS)
 ATTACK_CHAIN_LENGTHS = [3, 4, 5, 6, 7, 8, 9, 10]
 
