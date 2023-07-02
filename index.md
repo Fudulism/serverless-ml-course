@@ -5,7 +5,7 @@
 |--------|------- 
 | ![Iris](https://raw.githubusercontent.com/Fudulism/serverless-ml-course/main/assets/latest_iris.png) | ![Iris](https://raw.githubusercontent.com/Fudulism/serverless-ml-course/main/assets/actual_iris.png) 
 
- * Data source: Dari synthetic data yang dibuat pada feature pipeline
+ * Data source: Dari synthetic data yang dibuat pada feature pipeline Ini diaaa
  * Update frequency: Daily
 
 #### Performance Monitoring 
